@@ -80,7 +80,7 @@ require_once('inc/inc_front/nav.inc.php');
                             <h5 class="card-title text-center"><a href="fiche_produit.html" class="alert-link text-dark titre-produit-boutique">Tee-shirt 5</a></h5>
                             <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga laborum a quibusdam ratione voluptatem culpa. Quidem, obcaecati. Beatae, et molestiae?</p>
                             <p class="card-text fw-bold">15€</p>
-                            <p class="card-text text-center"><a href="fiche_produit.html" class="btn btn-outline-dark">En savoir plus</a></p>
+                            <p class="card-text text-center"><a href="fiche_produit.html" class="btn btn-outline-dark">En savoir plus </a></p>
                         </div>
                     </div>
                 </div>
@@ -91,7 +91,7 @@ require_once('inc/inc_front/nav.inc.php');
                             <h5 class="card-title text-center"><a href="fiche_produit.html" class="alert-link text-dark titre-produit-boutique">Tee-shirt 6</a></h5>
                             <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga laborum a quibusdam ratione voluptatem culpa. Quidem, obcaecati. Beatae, et molestiae?</p>
                             <p class="card-text fw-bold">30€</p>
-                            <p class="card-text text-center"><a href="fiche_produit.html" class="btn btn-outline-dark">En savoir plus</a></p>
+                            <p class="card-text text-center"><a href="fiche_produit.html" class="btn btn-outline-dark">En savoir plus </a></p>
                         </div>
                     </div>
                 </div>
